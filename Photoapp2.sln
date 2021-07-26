@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photoapp2", "Photoapp2\Photoapp2.csproj", "{E5D5A698-9A39-4447-9CB2-2EEE7081221E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoConsoleApp", "PhotoConsoleApp\PhotoConsoleApp.csproj", "{16ECEA58-DBF7-45B4-BF7C-D7B3721E003C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5D5A698-9A39-4447-9CB2-2EEE7081221E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5D5A698-9A39-4447-9CB2-2EEE7081221E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5D5A698-9A39-4447-9CB2-2EEE7081221E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5D5A698-9A39-4447-9CB2-2EEE7081221E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16ECEA58-DBF7-45B4-BF7C-D7B3721E003C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16ECEA58-DBF7-45B4-BF7C-D7B3721E003C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16ECEA58-DBF7-45B4-BF7C-D7B3721E003C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16ECEA58-DBF7-45B4-BF7C-D7B3721E003C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B963461A-1162-4268-8048-E7A7BC72EAA0}
+	EndGlobalSection
+EndGlobal
